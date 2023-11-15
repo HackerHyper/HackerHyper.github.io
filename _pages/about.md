@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
-
+My hobbies are basketball, football, and music.
 
 {% include_relative includes/news.md %}
 
