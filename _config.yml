@@ -22,7 +22,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Jian Zhu (朱健)"
-  avatar           : "images/jz_profile.jpeg"
+  avatar           : "images/jianzhu_profile.jpeg"
   bio              : "Zhejiang Lab"
   location         : "Hangzhou"
   employer         :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : "jianzhu"
   dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0000-0003-1000-1990"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
