@@ -1,11 +1,11 @@
 
 # 📖 Educations
 - *2023.09 - 2027.06*, Master, University of Science and Technology of China, Hefei.
-- *2012.09 - 2015.06*, postgraduate, University of Science and Technology of China, Hefei.
-- *2006.09 - 2010.06*, Hefei University of Technology, Hefei.
+- *2012.09 - 2015.06*, Postgraduate, University of Science and Technology of China, Hefei.
+- *2006.09 - 2010.06*, Undergraduate, Hefei University of Technology, Hefei.
 
 # 💬 Invited Talks
-- *2023.10*, Apweb-waim 2023 \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+- *2023.10*, Apweb-waim 2023 \| [\[Video\]](https://www.bilibili.com/video/BV12N4y1U7sB/?vd_source=9d142474d02f0acf222ae9fa865073c1)
 
 
 # 💻 Internships
