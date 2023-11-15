@@ -1,5 +1,5 @@
 # 🔥 News
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
+- *2023.10*: 🎉 One paper is accepted by Information Fusion(中科院一区, TOP, IF 18.6)
 - *2023.04*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+)
 - *2023.04*: 🎉 One paper ([Make-an-Audio](https://text-to-audio.github.io/)) is accepted by ICML 2023
 - *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
