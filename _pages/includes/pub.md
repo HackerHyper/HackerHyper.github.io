@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
-- ``ICASSP 2024`` [Adaptive Confidence Multi-View Hashing for Multimedia Retrieval](https://www.sciencedirect.com/science/article/pii/S1566253523004463), **Jian Zhu**, Yu Cui, Zhangmin Huang, Xingyu Li, Lei Liu, Lingfang zeng,Li-Rong Dai (CCF-B)
+- ``ICASSP 2024`` [Adaptive Confidence Multi-View Hashing for Multimedia Retrieval](https://www.sciencedirect.com/science/article/pii/S1566253523004463), **Jian Zhu**, Yu Cui, Zhangmin Huang, Xingyu Li, Lei Liu, Lingfang zeng, Li-Rong Dai (CCF-B)
 
 - ``Information Fusion`` [Fast Metric Multi-View Hashing for Multimedia Retrieval](https://www.sciencedirect.com/science/article/pii/S1566253523004463), **Jian Zhu**, Pengbo Hu, Bingqian Li, Yi Zhou (JCR Q1)
 
