@@ -1,5 +1,5 @@
 # 🔥 News
-- *2023.12*: 🎉 One paper is accepted by ICASSP2024(CCF-B)
+- *2023.12*: 🎉 One paper is accepted by ICASSP 2024(CCF-B)
 - *2023.11*: 🎉 One paper is accepted by Information Fusion(中科院一区, TOP, IF 18.6)
 - *2023.08*: 🔥 We release [CLIPMH](https://github.com/HackerHyper/CLIPMH) (⭐️40+)
 - *2023.07*: 🎉 One paper ([DFMVH](https://github.com/HackerHyper/DMMVH)) is accepted by ICKG 2023
