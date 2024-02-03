@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2023.09 - 2027.06*, P.h.D, Artificial Intelligence, University of Science and Technology of China, Hefei.
+- *2023.09 - 2027.06*, Eng.D, Artificial Intelligence, University of Science and Technology of China, Hefei.
 - *2012.09 - 2015.06*, Postgraduate, Control Science and Engineering, University of Science and Technology of China, Hefei.
 - *2006.09 - 2010.06*, Undergraduate, Vehicle Engineering, Hefei University of Technology, Hefei.
 
