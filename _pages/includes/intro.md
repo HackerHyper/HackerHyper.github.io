@@ -2,7 +2,7 @@ I work at [Zhejiang Lab, AI Team](https://www.zhejianglab.com/) <img src='./imag
 
 I am now working on Multi-modal(view) Learning, Information Retrieval, and Pattern Recognition. If you are seeking any form of **academic cooperation**, please feel free to email me at [qijian.zhu@outlook.com](mailto:qijian.zhu@outlook.com).
 
-I am pursuing a Doctor of Engeer at the School of Information Science and Technology, University of Science and Technology of China. My doctoral supervisor is [Prof. DAI lirong (戴礼荣)](https://faculty.ustc.edu.cn/dailirong/en/jsxx/242724/jsxx/).
+I am pursuing a Doctor of Engineering at the School of Information Science and Technology, University of Science and Technology of China. My doctoral supervisor is [Prof. DAI lirong (戴礼荣)](https://faculty.ustc.edu.cn/dailirong/en/jsxx/242724/jsxx/).
 
 My research interest includes Multi-modal(view) Learning, Information Retrieval, Pattern Recognition. I have published 5+ papers <a href='https://scholar.google.com/citations?hl=zh-CN&user=zYrKCHIAAAAJ'></a> at the top international AI conferences such as ICASSP, ICME, APWEB-WAIM. 
 I Serve as a reviewer for ACM MM, IEEE ICME, ICASSP, and Neural Computing and Applications.
