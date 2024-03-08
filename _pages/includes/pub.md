@@ -14,6 +14,9 @@
 ## 🎙 Reinforcement Learning
 - ``Information Sciences`` [Efficient multi-objective neural architecture search framework via policy gradient algorithm](https://www.sciencedirect.com/science/article/pii/S0020025524000999), Bo Lyu, Yin Yang, Yuting Cao, Pengcheng Wang, **Jian Zhu**, Jingfei Chang, Shiping Wen (JCR Q1)
 
+## 🎙 AI For Science (AI4S)
+- ``Renewable Energy`` [A deep-learning model for predicting spatiotemporal evolution in reactive fluidized bed reactor](https://www.sciencedirect.com/science/article/pii/S0960148124003100), Chenshu Hu, Xiaolin Guo, Yuyang Dai, **Jian Zhu**, Wen Cheng, Hongbo Xu, Lingfang Zeng (JCR Q1)
+
 # 📝 Patent 
 - 一种基于中心相似度的多模态哈希生成方法,发明专利,第一发明人,2022年9月授权
 - 一种基于多模态学习的短视频去重方法,发明专利,第一发明人,2023年7月授权
