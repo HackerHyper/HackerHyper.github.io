@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.06*: 🎉 One paper is accepted by ICPR 2024(CCF-C)
 - *2024.02*: 🎉 One paper is accepted by Renewable Energy(中科院一区, TOP, IF 8.7)
 - *2024.01*: 🎉 One paper is accepted by Information Sciences(中科院一区, TOP, IF 8.1)
 - *2023.12*: 🎉 One paper is accepted by ICASSP 2024(CCF-B)
