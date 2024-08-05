@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
-- ``ICASSP 2024`` [Boosted Curriculum Multi-View Hashing for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Zhangmin Huang, Lei Liu, Chang Tang, Li-Rong Dai (JCR Q2, CCF-C)
+- ``IEEE Signal Processing Letters`` [Boosted Curriculum Multi-View Hashing for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Zhangmin Huang, Lei Liu, Chang Tang, Li-Rong Dai (JCR Q2, CCF-C)
 
 - ``ICASSP 2024`` [Adaptive Confidence Multi-View Hashing for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Yu Cui, Zhangmin Huang, Xingyu Li, Lei Liu, Lingfang Zeng, Li-Rong Dai (CCF-B)
 
