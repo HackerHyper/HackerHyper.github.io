@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.08*: 🎉 One paper is accepted by IEEE Signal Processing Letters(中科院一区2区, CCF-C)
+- *2024.08*: 🎉 One paper is accepted by IEEE Signal Processing Letters(中科院二区, CCF-C)
 - *2024.06*: 🎉 One paper is accepted by ICPR 2024(CCF-C)
 - *2024.02*: 🎉 One paper is accepted by Renewable Energy(中科院一区, TOP, IF 8.7)
 - *2024.01*: 🎉 One paper is accepted by Information Sciences(中科院一区, TOP, IF 8.1)
