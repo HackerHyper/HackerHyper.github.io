@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.10*: 🎉 One paper is accepted by MMM 2025 (CCF-C)
 - *2024.09*: 🎉 One paper is accepted by IEEE International Conference on Data Mining (ICDM) 2024 (CCF-B)
 - *2024.08*: 🎉 One paper is accepted by IEEE Signal Processing Letters(中科院二区, CCF-C)
 - *2024.06*: 🎉 One paper is accepted by ICPR 2024(CCF-C)
