@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.12*: 🎉 Two papers are accepted by ICASSP 2025(CCF-B)
 - *2024.11*: 🎉 One paper is accepted by IEEE Transactions on Multimedia(中科院一区, TOP, IF 8.4)
 - *2024.10*: 🎉 One paper is accepted by MMM 2025 (CCF-C)
 - *2024.09*: 🎉 One paper is accepted by IEEE International Conference on Data Mining (ICDM) 2024 (CCF-B)
