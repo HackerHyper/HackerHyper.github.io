@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.01*: 🔥 We release [TMCN](https://github.com/HackerHyper/TMCN)
+- *2025.01*: 🔥 We release [TMCN:Trusted Mamba Contrastive Network for Multi-View Clustering](https://github.com/HackerHyper/TMCN)
 - *2024.12*: 🎉 Two papers are accepted by ICASSP 2025(CCF-B)
 - *2024.12*: 🎉 I have been awarded the title of Senior Engineer (Artificial Intelligence, Associate Senior Title)
 - *2024.11*: 🎉 One paper is accepted by IEEE Transactions on Multimedia(中科院一区, TOP, IF 8.4)
