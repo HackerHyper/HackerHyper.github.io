@@ -3,7 +3,7 @@
 ## 🎙 Multi-modal(view) Learning
 - ``ICASSP 2025`` [Dynamic SRM Curriculum for Trustworthy Multi-modal Classification](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Yu Cui, Xin Zou, Zhangmin Huang, Chenshu Hu, Jun Sun, Bo Lyu, Lei Liu, Chang Tang, Li-Rong Dai (CCF-B)
 
-- ``ICASSP 2025`` [Trusted Mamba Contrastive Network for Multi-View Clustering](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Xin Zou, Lei Liu, Zhangmin Huang, Ying Zhang, Chang Tang, Li-Rong Dai (CCF-B)
+- ``ICASSP 2025`` [Trusted Mamba Contrastive Network for Multi-View Clustering](https://arxiv.org/abs/2412.16487), **Jian Zhu**, Xin Zou, Lei Liu, Zhangmin Huang, Ying Zhang, Chang Tang, Li-Rong Dai (CCF-B)
 
 - ``IEEE Transactions on Multimedia`` [Adaptive Confidence Multi-View Learning](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Lei Liu, Yu Zhang, Chang Tang, Li-Rong Dai (JCR Q1, CCF-B)
 
