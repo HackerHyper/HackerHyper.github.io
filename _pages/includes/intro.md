@@ -1,4 +1,4 @@
-I work at [Zhejiang Lab, AI Team](https://www.zhejianglab.com/) <img src='./images/zjlab.png' style='width: 6em;'> as a senior engineer now in Hangzhou, leading a AI research group. 
+I work at [Zhejiang Lab(之江实验室), AI Team](https://www.zhejianglab.com/) <img src='./images/zjlab.png' style='width: 6em;'> as a senior engineer now in Hangzhou, leading a AI research group. 
 
 I am now working on Multi-modal(view) Learning, Information Retrieval, and Pattern Recognition. If you are seeking any form of **academic cooperation**, please feel free to email me at [qijian.zhu@outlook.com](mailto:qijian.zhu@outlook.com).
 
