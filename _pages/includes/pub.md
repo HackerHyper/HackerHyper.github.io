@@ -7,7 +7,7 @@
 
 - ``IEEE Transactions on Multimedia`` [Adaptive Confidence Multi-View Learning](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Lei Liu, Yu Zhang, Chang Tang, Li-Rong Dai (JCR Q1, CCF-B)
 
-- ``MMM 2025`` [CLIP Multi-modal Hashing for Multimedia Retrieval](https://arxiv.org/abs/2410.07783), **Jian Zhu**, Mingkai Sheng, Zhangmin Huang, Jingfei Chang, Jinling Jiang, Jian Long, Lei Liu, and Cheng Luo (CCF-C)
+- ``MMM 2025`` [CLIP Multi-modal Hashing for Multimedia Retrieval](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_15), **Jian Zhu**, Mingkai Sheng, Zhangmin Huang, Jingfei Chang, Jinling Jiang, Jian Long, Lei Liu, and Cheng Luo (CCF-C)
 
 - ``ICDM 2024`` [Adaptive Loss-ware Modulation for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10632619), **Jian Zhu**, Yu Cui, Zeyi Sun, Yuyang Dai, Xi Wang, Lei Liu, Cheng Luo, and Li-Rong Dai (CCF-B)
 
