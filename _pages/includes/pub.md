@@ -24,7 +24,7 @@
 - ``ICKG 2023`` [Deep Fusion Multi-View Hashing for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10412825), **Jian Zhu**, Mingkai Sheng, Mingda Ke, Wen Cheng, Liying Zhang, Lingfang Zeng (EI)
 
 ## 🎙 Natural Language Processing
-- ``ICPR 2024`` [Deep Prompt Multi-task Network for Abuse Language Detection](https://arxiv.org/abs/2403.05268), **Jian Zhu**, Yuping Ruan, Jingfei Chang, Wenhui Sun, Hui Wan, Jian Long, Cheng Luo (CCF Rank C)
+- ``ICPR 2024`` [Deep Prompt Multi-task Network for Abuse Language Detection](https://link.springer.com/chapter/10.1007/978-3-031-78107-0_16), **Jian Zhu**, Yuping Ruan, Jingfei Chang, Wenhui Sun, Hui Wan, Jian Long, Cheng Luo (CCF Rank C)
 
 ## 🎙 Reinforcement Learning
 - ``Information Sciences`` [Efficient multi-objective neural architecture search framework via policy gradient algorithm](https://www.sciencedirect.com/science/article/pii/S0020025524000999), Bo Lyu, Yin Yang, Yuting Cao, Pengcheng Wang, **Jian Zhu**, Jingfei Chang, Shiping Wen (JCR Q1)
