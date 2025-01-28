@@ -5,7 +5,7 @@
 
 - ``ICASSP 2025`` [Trusted Mamba Contrastive Network for Multi-View Clustering](https://arxiv.org/abs/2412.16487), **Jian Zhu**, Xin Zou, Lei Liu, Zhangmin Huang, Ying Zhang, Chang Tang, Li-Rong Dai (CCF-B)
 
-- ``IEEE Transactions on Multimedia`` [Adaptive Confidence Multi-View Learning](https://ieeexplore.ieee.org/abstract/document/10447517), **Jian Zhu**, Lei Liu, Yu Zhang, Chang Tang, Li-Rong Dai (JCR Q1, CCF-B)
+- ``IEEE Transactions on Multimedia`` [Adaptive Confidence Multi-View Learning](https://ieeexplore.ieee.org/document/10855538), **Jian Zhu**, Lei Liu, Yu Zhang, Chang Tang, Li-Rong Dai (JCR Q1, CCF-B)
 
 - ``MMM 2025`` [CLIP Multi-modal Hashing for Multimedia Retrieval](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_15), **Jian Zhu**, Mingkai Sheng, Zhangmin Huang, Jingfei Chang, Jinling Jiang, Jian Long, Lei Liu, and Cheng Luo (CCF-C)
 
