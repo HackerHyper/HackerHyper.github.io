@@ -9,7 +9,7 @@
 
 - ``MMM 2025`` [CLIP Multi-modal Hashing for Multimedia Retrieval](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_15), **Jian Zhu**, Mingkai Sheng, Zhangmin Huang, Jingfei Chang, Jinling Jiang, Jian Long, Lei Liu, and Cheng Luo (CCF-C)
 
-- ``ICDM 2024`` [Adaptive Loss-ware Modulation for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10632619), **Jian Zhu**, Yu Cui, Zeyi Sun, Yuyang Dai, Xi Wang, Lei Liu, Cheng Luo, and Li-Rong Dai (CCF-B)
+- ``ICDM 2024`` [Adaptive Loss-ware Modulation for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10884426), **Jian Zhu**, Yu Cui, Zeyi Sun, Yuyang Dai, Xi Wang, Lei Liu, Cheng Luo, and Li-Rong Dai (CCF-B)
 
 - ``IEEE Signal Processing Letters`` [Boosted Curriculum Multi-View Hashing for Multimedia Retrieval](https://ieeexplore.ieee.org/abstract/document/10632619), **Jian Zhu**, Zhangmin Huang, Lei Liu, Chang Tang, Li-Rong Dai (JCR Q2, CCF-C)
 
