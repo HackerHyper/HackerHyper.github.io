@@ -1,6 +1,9 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
+- ``ACL 2025`` [Adversarial Alignment with Anchor Dragging Drift (A3D2):
+Multimodal Domain Adaptation with Partially Shifted Modalities](https://openreview.net/pdf?id=fy3qvi88c2), Jun Sun, Xinxin Zhang, Simin Hong, **Jian Zhu**, Lingfang Zeng (CCF-A)
+
 - ``ICASSP 2025`` [Dynamic SRM Curriculum for Trustworthy Multi-modal Classification](https://ieeexplore.ieee.org/abstract/document/10888724), **Jian Zhu**, Yu Cui, Xin Zou, Zhangmin Huang, Chenshu Hu, Jun Sun, Bo Lyu, Lei Liu, Chang Tang, Li-Rong Dai (CCF-B)
 
 - ``ICASSP 2025`` [Trusted Mamba Contrastive Network for Multi-View Clustering](https://ieeexplore.ieee.org/abstract/document/10890288), **Jian Zhu**, Xin Zou, Lei Liu, Zhangmin Huang, Ying Zhang, Chang Tang, Li-Rong Dai (CCF-B)
