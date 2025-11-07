@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.11*: 🎉 Two paper are accepted by AAAI 2026(CCF-A)
+- *2025.11*: 🎉 Two papers are accepted by AAAI 2026(CCF-A)
 - *2025.09*: 🔥 We release [GDCN:Generative Diffusion Contrastive Network for Multi-View Clustering](https://github.com/HackerHyper/GDCN)
 - *2025.05*: 🎉 One paper is accepted by ACL 2025(CCF-A)
 - *2025.01*: 🔥 We release [TMCN:Trusted Mamba Contrastive Network for Multi-View Clustering](https://github.com/HackerHyper/TMCN)
