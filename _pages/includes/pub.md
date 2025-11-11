@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
-- ``AAAI 2026`` [MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://github.com/HackerHyper/MoEGCL), **Jian Zhu**, Xin Zou, Jun Sun, Cheng Luo, Lei Liu, Lingfang Zeng, Ning Zhang, Bian Wu, Chang Tang, Lirong Dai (CCF-A)
+- ``AAAI 2026`` [MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876), **Jian Zhu**, Xin Zou, Jun Sun, Cheng Luo, Lei Liu, Lingfang Zeng, Ning Zhang, Bian Wu, Chang Tang, Lirong Dai (CCF-A)
 - ``ACL 2025`` [Adversarial Alignment with Anchor Dragging Drift (A3D2): Multimodal Domain Adaptation with Partially Shifted Modalities](https://openreview.net/pdf?id=fy3qvi88c2), Jun Sun, Xinxin Zhang, Simin Hong, **Jian Zhu**, Lingfang Zeng (CCF-A)
 
 - ``ICASSP 2025`` [Dynamic SRM Curriculum for Trustworthy Multi-modal Classification](https://ieeexplore.ieee.org/abstract/document/10888724), **Jian Zhu**, Yu Cui, Xin Zou, Zhangmin Huang, Chenshu Hu, Jun Sun, Bo Lyu, Lei Liu, Chang Tang, Li-Rong Dai (CCF-B)
