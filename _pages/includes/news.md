@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.02*: 🎉 One paper is accepted by Expert Systems With Applications(中科院一区, TOP)
+- *2025.12*: 🎉 One paper is accepted by IEEE Transactions on Multimedia(中科院一区, TOP, IF 9.7)
 - *2025.11*: 🎉 One paper are accepted by AAAI 2026(CCF-A)
 - *2025.09*: 🔥 We release [GDCN:Generative Diffusion Contrastive Network for Multi-View Clustering](https://github.com/HackerHyper/GDCN)
 - *2025.05*: 🎉 One paper is accepted by ACL 2025(CCF-A)
