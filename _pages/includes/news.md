@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: 🎉 One paper is accepted by IEEE Signal Processing Letters(中科院二区, CCF-C)
 - *2026.02*: 🎉 One paper is accepted by Expert Systems With Applications(中科院一区, TOP)
 - *2025.12*: 🎉 One paper is accepted by IEEE Transactions on Multimedia(中科院一区, TOP, IF 9.7)
 - *2025.11*: 🎉 One paper are accepted by AAAI 2026(CCF-A)
