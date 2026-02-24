@@ -1,6 +1,8 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
+- ``Expert Systems with Applications`` [Curriculum Trustworthy Multi-modal Learning](https://www.sciencedirect.com/science/article/pii/S0957417426004549), **Jian Zhu**, Xin Zou, Jun Sun, Bian Wu, Lingfang Zeng, Linqing Feng, Lei Liu, Chang Tang (JCR Q1, CCF-C)
+
 - ``AAAI 2026`` [Boomda: Balanced Multi-objective Optimization for Multimodal Domain Adaptation](https://arxiv.org/abs/2511.08152), Jun Sun, Xinxin Zhang, Simin Hong, **Jian Zhu**, Xiang Gao (CCF-A)
 
 
