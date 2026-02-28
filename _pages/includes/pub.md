@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
-- ``IEEE Signal Processing Letters`` [Generative Diffusion Contrastive Network for Multi-View Clustering](https://arxiv.org/abs/2509.09527), **Jian Zhu**, Xi Zou, Xi Wang, Lei Liu, Chang Tang, Li-Rong Dai (JCR Q2, CCF-C)
+- ``IEEE Signal Processing Letters`` [Generative Diffusion Contrastive Network for Multi-View Clustering](https://doi.org/10.1109/LSP.2026.3668750), **Jian Zhu**, Xi Zou, Xi Wang, Lei Liu, Chang Tang, Li-Rong Dai (JCR Q2, CCF-C)
 
 - ``Expert Systems with Applications`` [Curriculum Trustworthy Multi-modal Learning](https://www.sciencedirect.com/science/article/pii/S0957417426004549), **Jian Zhu**, Xin Zou, Jun Sun, Bian Wu, Lingfang Zeng, Linqing Feng, Lei Liu, Chang Tang (JCR Q1, CCF-C)
 
