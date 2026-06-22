@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06*: I obtained the degree of Doctor of Electronic and Information Engineering in University of Science and Technology of China (USTC, June 2026).
 - *2026.04*: I was elected as CCF Senior Member
 - *2026.04*: We release [HAFM: Hierarchical Autoregressive Foundation Model for Music Accompaniment Generation](https://github.com/HackerHyper/HAFM.git)
 - *2026.02*: 🎉 One paper is accepted by IEEE Signal Processing Letters(中科院二区, CCF-C)
