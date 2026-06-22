@@ -1,6 +1,8 @@
 
 # 📝 Publications 
 ## 🎙 Multi-modal(view) Learning
+- ``IEEE Transactions on Multimedia`` [Trusted Mixture-of-Mambas Contrastive Network for Multi-View Clustering](https://ieeexplore.ieee.org/abstract/document/11498412), **Jian Zhu**, Xin Zou, Jun Sun, Zeyi Sun, Lei Liu, Chang Tang (JCR Q1, CCF-A)
+
 - ``IEEE Signal Processing Letters`` [Generative Diffusion Contrastive Network for Multi-View Clustering](https://doi.org/10.1109/LSP.2026.3668750), **Jian Zhu**, Xi Zou, Xi Wang, Lei Liu, Chang Tang, Li-Rong Dai (JCR Q2, CCF-C)
 
 - ``Expert Systems with Applications`` [Curriculum Trustworthy Multi-modal Learning](https://www.sciencedirect.com/science/article/pii/S0957417426004549), **Jian Zhu**, Xin Zou, Jun Sun, Bian Wu, Lingfang Zeng, Linqing Feng, Lei Liu, Chang Tang (JCR Q1, CCF-C)
@@ -14,7 +16,7 @@
 
 - ``ICASSP 2025`` [Trusted Mamba Contrastive Network for Multi-View Clustering](https://ieeexplore.ieee.org/abstract/document/10890288), **Jian Zhu**, Xin Zou, Lei Liu, Zhangmin Huang, Ying Zhang, Chang Tang, Li-Rong Dai (CCF-B)
 
-- ``IEEE Transactions on Multimedia`` [Adaptive Confidence Multi-View Learning](https://ieeexplore.ieee.org/document/10855538), **Jian Zhu**, Lei Liu, Yu Zhang, Chang Tang, Li-Rong Dai (JCR Q1, CCF-B)
+- ``IEEE Transactions on Multimedia`` [Adaptive Confidence Multi-View Learning](https://ieeexplore.ieee.org/document/10855538), **Jian Zhu**, Lei Liu, Yu Zhang, Chang Tang, Li-Rong Dai (JCR Q1, CCF-A)
 
 - ``MMM 2025`` [CLIP Multi-modal Hashing for Multimedia Retrieval](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_15), **Jian Zhu**, Mingkai Sheng, Zhangmin Huang, Jingfei Chang, Jinling Jiang, Jian Long, Lei Liu, and Cheng Luo (CCF-C)
 
